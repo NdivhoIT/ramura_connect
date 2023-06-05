@@ -1,0 +1,1 @@
+C:\nit\Dev\MAUI\RC_\RC_.csproj;x64
